@@ -1,0 +1,14 @@
+C:\Users\emir\OneDrive\Masaüstü\PetSimulator\PetSimulator\bin\Debug\net8.0\PetSimulator.exe
+C:\Users\emir\OneDrive\Masaüstü\PetSimulator\PetSimulator\bin\Debug\net8.0\PetSimulator.deps.json
+C:\Users\emir\OneDrive\Masaüstü\PetSimulator\PetSimulator\bin\Debug\net8.0\PetSimulator.runtimeconfig.json
+C:\Users\emir\OneDrive\Masaüstü\PetSimulator\PetSimulator\bin\Debug\net8.0\PetSimulator.dll
+C:\Users\emir\OneDrive\Masaüstü\PetSimulator\PetSimulator\bin\Debug\net8.0\PetSimulator.pdb
+C:\Users\emir\OneDrive\Masaüstü\PetSimulator\PetSimulator\obj\Debug\net8.0\PetSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir\OneDrive\Masaüstü\PetSimulator\PetSimulator\obj\Debug\net8.0\PetSimulator.AssemblyInfoInputs.cache
+C:\Users\emir\OneDrive\Masaüstü\PetSimulator\PetSimulator\obj\Debug\net8.0\PetSimulator.AssemblyInfo.cs
+C:\Users\emir\OneDrive\Masaüstü\PetSimulator\PetSimulator\obj\Debug\net8.0\PetSimulator.csproj.CoreCompileInputs.cache
+C:\Users\emir\OneDrive\Masaüstü\PetSimulator\PetSimulator\obj\Debug\net8.0\PetSimulator.dll
+C:\Users\emir\OneDrive\Masaüstü\PetSimulator\PetSimulator\obj\Debug\net8.0\refint\PetSimulator.dll
+C:\Users\emir\OneDrive\Masaüstü\PetSimulator\PetSimulator\obj\Debug\net8.0\PetSimulator.pdb
+C:\Users\emir\OneDrive\Masaüstü\PetSimulator\PetSimulator\obj\Debug\net8.0\PetSimulator.genruntimeconfig.cache
+C:\Users\emir\OneDrive\Masaüstü\PetSimulator\PetSimulator\obj\Debug\net8.0\ref\PetSimulator.dll
